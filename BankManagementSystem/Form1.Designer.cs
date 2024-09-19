@@ -76,7 +76,7 @@
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button1.Location = new System.Drawing.Point(146, 386);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(413, 52);
+            this.button1.Size = new System.Drawing.Size(212, 52);
             this.button1.TabIndex = 2;
             this.button1.Text = "Log In";
             this.button1.UseVisualStyleBackColor = false;
@@ -90,7 +90,7 @@
             this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button2.Location = new System.Drawing.Point(563, 62);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(412, 59);
+            this.button2.Size = new System.Drawing.Size(211, 59);
             this.button2.TabIndex = 3;
             this.button2.Text = "Registration";
             this.button2.UseVisualStyleBackColor = false;
@@ -104,7 +104,7 @@
             this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button3.Location = new System.Drawing.Point(563, 127);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(412, 63);
+            this.button3.Size = new System.Drawing.Size(211, 63);
             this.button3.TabIndex = 4;
             this.button3.Text = "ExChange Rates";
             this.button3.UseVisualStyleBackColor = false;
@@ -118,7 +118,7 @@
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button4.Location = new System.Drawing.Point(563, 196);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(412, 62);
+            this.button4.Size = new System.Drawing.Size(211, 62);
             this.button4.TabIndex = 5;
             this.button4.Text = "Contact Us";
             this.button4.UseVisualStyleBackColor = false;
@@ -132,7 +132,7 @@
             this.button5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button5.Location = new System.Drawing.Point(563, 264);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(412, 63);
+            this.button5.Size = new System.Drawing.Size(211, 63);
             this.button5.TabIndex = 6;
             this.button5.Text = "About Us";
             this.button5.UseVisualStyleBackColor = false;
@@ -146,7 +146,7 @@
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button6.Location = new System.Drawing.Point(562, 336);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(413, 57);
+            this.button6.Size = new System.Drawing.Size(212, 57);
             this.button6.TabIndex = 7;
             this.button6.Text = "Exit";
             this.button6.UseVisualStyleBackColor = false;
@@ -157,7 +157,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBox1.Location = new System.Drawing.Point(80, 285);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(426, 22);
+            this.textBox1.Size = new System.Drawing.Size(225, 22);
             this.textBox1.TabIndex = 8;
             // 
             // textBox2
@@ -166,14 +166,15 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBox2.Location = new System.Drawing.Point(106, 328);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(426, 22);
+            this.textBox2.Size = new System.Drawing.Size(225, 22);
             this.textBox2.TabIndex = 9;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(46, 47);
+            this.pictureBox1.Image = global::BankManagementSystem.Properties.Resources.bankmanagementsystemimage;
+            this.pictureBox1.Location = new System.Drawing.Point(56, 47);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(423, 187);
+            this.pictureBox1.Size = new System.Drawing.Size(369, 211);
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
             // 
@@ -181,7 +182,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1052, 466);
+            this.ClientSize = new System.Drawing.Size(851, 456);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
