@@ -171,12 +171,13 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::BankManagementSystem.Properties.Resources.bankmanagementsystemimage;
-            this.pictureBox1.Location = new System.Drawing.Point(56, 47);
+            this.pictureBox1.Image = global::BankManagementSystem.Properties.Resources.bms2_removebg_preview;
+            this.pictureBox1.Location = new System.Drawing.Point(44, 41);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(369, 211);
+            this.pictureBox1.Size = new System.Drawing.Size(368, 217);
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form1
             // 
