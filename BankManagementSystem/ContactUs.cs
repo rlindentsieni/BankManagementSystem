@@ -30,9 +30,11 @@ namespace BankManagementSystem
         {
 
             string username = txtUsername.Text;
+            //string subtitle = txtSubject.Text;
+
             if (!string.IsNullOrEmpty(username))
             {
-                MessageBox.Show("Form submitted successfully! Username: " + username);
+                MessageBox.Show("Form submitted successfully!" + username);
             }
             else
             {
