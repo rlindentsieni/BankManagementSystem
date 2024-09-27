@@ -16,7 +16,7 @@ namespace BankManagementSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Registration());
+            Application.Run(new Registration());//This starts the application and opens the initial form. 
         }
     }
 }
