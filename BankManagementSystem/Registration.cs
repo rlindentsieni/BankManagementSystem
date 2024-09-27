@@ -73,7 +73,7 @@ namespace BankManagementSystem
 
         private void Registration_Load(object sender, EventArgs e)
         {
-            if (!btnRegister.Enabled)
+            if (!btnRegister.Enabled)//The code checks if the btnRegister button is not enabled when the form loads.
             {
                 btnRegister.BackColor = Color.White;
             }
