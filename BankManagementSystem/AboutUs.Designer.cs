@@ -63,7 +63,7 @@
             // 
             // btnback
             // 
-            this.btnback.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnback.BackColor = System.Drawing.Color.BlueViolet;
             this.btnback.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnback.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnback.Location = new System.Drawing.Point(595, 345);
@@ -76,7 +76,7 @@
             // 
             // btnexit
             // 
-            this.btnexit.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnexit.BackColor = System.Drawing.Color.BlueViolet;
             this.btnexit.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnexit.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnexit.Location = new System.Drawing.Point(465, 345);
