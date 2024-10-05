@@ -63,7 +63,7 @@
             // 
             // btnback
             // 
-            this.btnback.BackColor = System.Drawing.Color.Black;
+            this.btnback.BackColor = System.Drawing.Color.DimGray;
             this.btnback.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnback.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnback.Location = new System.Drawing.Point(595, 345);
