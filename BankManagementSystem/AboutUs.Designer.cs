@@ -76,7 +76,7 @@
             // 
             // btnexit
             // 
-            this.btnexit.BackColor = System.Drawing.Color.Black;
+            this.btnexit.BackColor = System.Drawing.Color.DimGray;
             this.btnexit.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnexit.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnexit.Location = new System.Drawing.Point(465, 345);
